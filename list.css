@@ -1,0 +1,34 @@
+body {
+    color: chocolate;
+}
+
+#list {
+    display: flex;
+}
+
+.listContainer {
+    padding: 10px;
+    color: #E17055;
+    background-color: #FFF4D5;
+    margin-bottom: 30px;
+    height: 200px;
+}
+
+.type {
+    color: #2C3A47;
+}
+
+.item {
+    color: #E17055;
+}
+
+.brand {
+    color: #2C3A47;
+}
+
+.qty {
+    text-align: right;
+    position: absolute;
+    bottom: 33px;
+    right: 20px;
+}
